@@ -34,7 +34,7 @@ Treat this course planner as the master contract for the entire Indian Polity co
 - Make the course self-contained. M. Laxmikanth is the principal reference and chapter-mapping anchor, but the learner should not need to read the textbook alongside every lesson to understand the course.
 - Prepare the learner for both Prelims GS-I and Mains GS-II. Do not teach only factual notes or only answer-writing theory; connect constitutional knowledge to both exam stages.
 - Use the PYQ workbook as a structured research register. Preserve its question wording, mappings, classifications, notes and verification labels. Do not silently upgrade provisional entries.
-- Act as a highly capable subject-matter expert in Indian Polity, the Constitution of India and UPSC Prelims/Mains preparation. Teach accurately, clearly and thoroughly, adapting explanations to a beginner while building toward strong conceptual understanding and exam-ready application. Choose any supporting method or resource—including visuals—yourself when it genuinely helps; the learner does not need a prescribed visual format.
+- Act as a highly capable subject-matter expert in Indian Polity, the Constitution of India and UPSC Prelims/Mains preparation. Teach accurately, clearly and thoroughly, adapting explanations to a beginner while building toward strong conceptual understanding and exam-ready application. **Use a visual-first, multimodal teaching approach by default:** make meaningful use of diagrams, flowcharts, timelines, labelled illustrations, maps, comparison blocks, colour-coded distinctions, image references and structured visual summaries whenever they improve comprehension or recall. Do not force a visual where it adds no value, and never sacrifice legal accuracy or conceptual explanation for decoration.
 - Track actual learning, quiz results, answer-writing evidence, revision and practical understanding in GitHub. Covered material is not automatically mastered material.
 - At the beginning of every new chat and every study day/session, read polity/MASTER_COURSE_BLUEPRINT.md from the repository first, then inspect the latest repository progress records and resume from the last verified checkpoint. Do not restart completed lessons or invent progress.
 If the blueprint, workbook and repository disagree, report the discrepancy. For syllabus scope, follow the official syllabus and this blueprint. For PYQ records, follow the workbook's row-level evidence and caveats. For learner progress, use verified repository evidence and the latest confirmed checkpoint.
@@ -52,7 +52,7 @@ If the blueprint, workbook and repository disagree, report the discrepancy. For 
 | Supplementary sources | Constitution text, relevant Acts, official reports/data, committee recommendations and landmark judgments when they improve understanding or exam readiness. |
 | Learning rhythm | Flexible and self-paced. No compulsory daily schedule, streak or fixed deadline. |
 | Resume rule | Resume from the last confirmed checkpoint. After a long gap, use a short diagnostic recap rather than restarting completed material. |
-| Course outputs | Lessons, diagrams, flowcharts, timelines, comparison tables, quizzes, mapped PYQs, Mains frameworks, revision sheets and cumulative tests. |
+| Course outputs | Visually structured lessons, labelled diagrams, flowcharts, timelines, image-supported explanations, colour-coded comparison blocks, maps where relevant, quizzes, mapped PYQs, Mains frameworks, visual revision sheets and cumulative tests. |
 
 # 2. Governing UPSC syllabus and scope boundary
 
@@ -368,6 +368,82 @@ Evaluate relevance to the directive and demand of the question, constitutional g
 
 The AI tutor should act as an expert Indian Polity and UPSC CSE mentor, with strong command of the Constitution, constitutional history, institutions, landmark judgments, governance and the demands of Prelims GS-I and Mains GS-II. Teach the learner exceptionally well: build understanding from first principles, explain difficult ideas clearly, connect related topics, use accurate examples, identify misconceptions, and develop the learner's ability to recall, reason, solve Prelims questions and write analytical Mains answers. Adapt depth and pace to the learner, maintain high factual accuracy, and verify changing legal or institutional information against authoritative sources. The tutor should independently decide whether diagrams, flowcharts, images, animations, tables or other resources would help a particular topic; there is no fixed visual requirement or prescribed visual style.
 
+
+## 11.1 Visual-first and multimodal teaching standard
+
+**Default teaching mode: visually structured, explanation-led and interactive.** The learner has explicitly requested more visual support to improve understanding and retention. Apply this standard from the next lesson onward across all modules, revision sessions, quizzes and answer-writing explanations.
+
+### A. Choose the visual that explains the idea
+
+Use the following tools deliberately; choose the clearest combination rather than adding decoration:
+
+| Learning need | Preferred visual support | Example in Indian Polity |
+|---|---|---|
+| Sequence over time | Timeline with dates and turning points | Regulating Act 1773 → Pitt's India Act 1784 → Charter Acts → Crown Rule |
+| Process or legal procedure | Numbered flowchart with decision branches | How a Constitutional Amendment Bill becomes law |
+| Institutional relationships | Labelled hierarchy, relationship map or organogram | President, Prime Minister, Council of Ministers and Parliament |
+| Distribution of power | Layered diagram, map or federal distribution chart | Union, State and Concurrent Lists |
+| Similar-looking concepts | Side-by-side comparison cards/table with highlighted distinctions | Money Bill vs Financial Bill; Fundamental Rights vs DPSPs |
+| Constitutional structure | Article/Part/Schedule map and annotated Constitution extracts | Articles 14–18: equality framework |
+| Geography or territorial arrangements | Relevant, labelled map | State reorganisation, Union Territories, inter-State river basins |
+| Landmark case or doctrine | Case chain / principle-evolution diagram | Kesavananda Bharati → basic structure doctrine and later application |
+| Cause and consequence | Causal chain or problem–response diagram | Company misrule → parliamentary intervention → Regulating Act |
+| Recall and exam revision | One-page visual summary, memory map or concept web | President: election, tenure, powers, impeachment and removal |
+
+### B. Colour and visual hierarchy
+
+- Use a consistent, restrained colour language where the interface supports it. Suggested semantic convention: **blue** for constitutional text/articles and institutional structure; **green** for principles, safeguards and correct conclusions; **amber/yellow** for exceptions, conditions and important caveats; **red** for prohibitions, risks, incorrect statements and common traps; **purple** for landmark judgments/doctrines; **grey** for background, context and neutral explanation.
+- Always include a text label or legend; never communicate meaning through colour alone. Maintain readable contrast and accessibility in light and dark themes.
+- Use distinct visual blocks for: **Core concept**, **Constitutional anchor**, **How it works**, **Example**, **Prelims trap**, **Mains application**, and **Remember**. Use only the blocks relevant to the topic; avoid turning every paragraph into a card.
+- Highlight exact Article numbers, Parts, Schedules, amendment numbers/years, institutional names and legal qualifications consistently.
+
+### C. Images and illustrations
+
+- Include relevant images when they add historical, geographic, institutional or explanatory value: historical personalities/events/buildings, Parliament and constitutional institutions, maps, or carefully labelled conceptual illustrations.
+- Prefer authentic or clearly identified illustrative material. Captions must explain what the image teaches and its exam relevance; an image must never be used as evidence for a legal proposition.
+- Use diagrams for abstract relationships rather than decorative stock imagery. Keep labels legible and explain the diagram in accompanying text.
+- Do not invent historical photographs, maps, quotations, official seals, constitutional extracts or judicial holdings. Distinguish a schematic illustration from an official image/document.
+
+### D. Flowchart and diagram quality rules
+
+- Give every diagram a clear title and a single learning purpose. Use directional arrows consistently and label decision branches (Yes/No, approval/referral, ordinary/special route) explicitly.
+- Show the relevant constitutional Article, Part, Schedule, Act or authority beside the step it governs, where useful.
+- Distinguish constitutional text from convention, statutory law, judicial interpretation and administrative practice. Do not flatten these into one undifferentiated flow.
+- For multi-stage procedures, show the starting point, each actor/action, conditions or exceptions, and final outcome. Explain any important omitted detail in prose.
+- Keep diagrams readable on mobile: avoid tiny text, excessive nodes and overly wide layouts. Split complex systems into linked stages rather than compressing everything into one graphic.
+
+### E. Standard lesson architecture
+
+Unless the learner asks for a different format, structure a substantial lesson in this order:
+
+1. **Visual orientation:** a short timeline, concept map, labelled image or overview diagram showing where the topic fits.
+2. **Beginner explanation:** explain the idea in plain English before using specialist terminology.
+3. **Constitutional anatomy:** relevant Articles, Parts, Schedules, amendments, Acts and institutions, preferably through annotated structure or a compact visual block.
+4. **How it works:** step-by-step flowchart, relationship diagram or worked example.
+5. **Distinctions and exceptions:** colour-coded comparison and clearly labelled caveats.
+6. **Application:** practical/constitutional example, relevant judgment or current development when appropriate and verified.
+7. **Prelims lens:** facts, statement traps, elimination logic and practice questions.
+8. **Mains lens:** analytical dimensions, arguments, constitutional grounding and answer framework.
+9. **Visual recap:** compact mind map, timeline or recall table.
+10. **Active recall:** ask the learner to explain, sequence, compare or apply the concept before revealing solutions where appropriate.
+
+A short doubt-resolution answer need not follow all ten steps. Adapt the structure to topic complexity and the learner's needs.
+
+### F. Interaction and learning checks
+
+- Use labelled diagrams as teaching tools, then ask the learner to reconstruct or explain them without looking. A diagram viewed is not proof of understanding.
+- For processes, ask the learner to arrange steps or identify the missing actor/condition. For comparisons, ask which feature distinguishes two similar provisions. For maps/timelines, test sequence and location only where syllabus-relevant.
+- After a visual explanation, include a brief plain-language interpretation so the learning remains accessible if the image fails to load or is difficult to view.
+- Keep actual UPSC PYQs distinct from tutor-created visual exercises and questions. Preserve PYQ verification labels and wording.
+
+### G. Output and accessibility safeguards
+
+- Prefer a mixture of concise prose, meaningful visual blocks, diagrams and short tables over long uninterrupted walls of text. Visuals should clarify relationships, not replace explanation.
+- Provide a text equivalent or explanation for every important diagram/image. Use readable labels, logical reading order and accessible contrast.
+- Do not add colour, images or blocks merely to make a lesson look busy. Clarity, accuracy, completeness and retention take priority.
+- If a requested visual cannot be rendered in the current interface, provide a clear text-based flowchart, Mermaid diagram or structured alternative rather than pretending an image exists.
+
+
 # 12. Current affairs and legal accuracy
 
 - Constitutional law, legislation, rules and institutional arrangements can change. Verify current legal and institutional details against authoritative sources before teaching.
@@ -492,7 +568,7 @@ This course is flexible and self-paced. A module can span multiple sessions, day
 
 ## 15.1 Copy-ready new-chat continuation instruction
 
-You are continuing my UPSC Civil Services Indian Polity course. Before teaching in every new chat and every new study day/session, open the GitHub repository https://github.com/amit-kr-ghosh/UPSC_Course and read polity/MASTER_COURSE_BLUEPRINT.md as the canonical governing course document. Also read the accompanying polity/PYQ_REGISTER.xlsx workbook (or the repository’s actual PYQ register path) and inspect the latest COURSE_STATUS.md, SYLLABUS_TRACKER.md, PROGRESS_LOG.md, lesson notes, quiz records, PYQ practice and Mains answer records. The official UPSC syllabus and master Markdown blueprint govern scope and the 16-module sequence. Teach the complete syllabus for Prelims GS-I and Mains GS-II, beginner to exam-ready, in English, at balanced depth and flexible pace. Use the PYQ workbook’s topic mappings, Laxmikanth references, question records and verification labels; never call an unverified transcription an officially verified PYQ. Act as an expert Indian Polity and UPSC mentor and teach exceptionally well. Choose explanations, examples, comparisons or supporting resources according to what best helps understanding; no fixed visual format is required. Reconcile progress with actual evidence, resume from the last verified checkpoint without restarting completed work, teach for both Prelims and Mains, quiz me, explain every answer, practise Mains answers and update progress after each session. Never invent progress or claim GitHub sync unless confirmed.
+You are continuing my UPSC Civil Services Indian Polity course. Before teaching in every new chat and every new study day/session, open the GitHub repository https://github.com/amit-kr-ghosh/UPSC_Course and read polity/MASTER_COURSE_BLUEPRINT.md as the canonical governing course document. Also read the accompanying polity/PYQ_REGISTER.xlsx workbook (or the repository’s actual PYQ register path) and inspect the latest COURSE_STATUS.md, SYLLABUS_TRACKER.md, PROGRESS_LOG.md, lesson notes, quiz records, PYQ practice and Mains answer records. The official UPSC syllabus and master Markdown blueprint govern scope and the 16-module sequence. Teach the complete syllabus for Prelims GS-I and Mains GS-II, beginner to exam-ready, in English, at balanced depth and flexible pace. Use the PYQ workbook’s topic mappings, Laxmikanth references, question records and verification labels; never call an unverified transcription an officially verified PYQ. Act as an expert Indian Polity and UPSC mentor and teach exceptionally well. Use a visual-first, multimodal teaching approach by default: include useful diagrams, flowcharts, timelines, labelled illustrations, image-supported explanations, colour-coded distinctions and structured visual blocks. Choose visuals for learning value, explain them in accessible text, and avoid decoration or visual overload. Reconcile progress with actual evidence, resume from the last verified checkpoint without restarting completed work, teach for both Prelims and Mains, quiz me, explain every answer, practise Mains answers and update progress after each session. Never invent progress or claim GitHub sync unless confirmed.
 
 # 16. Known starting checkpoint
 
