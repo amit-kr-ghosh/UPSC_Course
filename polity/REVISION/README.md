@@ -1,27 +1,23 @@
 # Revision Workspace
 
-Store concise revision sheets, active-recall prompts and revision records. Separate the revision plan and source checks from the actual recall activity.
+Store concise revision sheets, active-recall prompts and revision records.
 
-## Part A — Revision brief
+## Internal revision preparation — not displayed as a preamble
 
-Record:
-- Module / topic:
-- Last taught and last revised dates:
-- Learning objectives / concepts due for recall:
-- Relevant Articles, Schedules, Acts, cases and key distinctions:
-- Sources checked and any legal/current-affairs updates:
-- Previous errors and weak areas:
-- Reason revision is due:
+The tutor checks the module/topic, last taught and revised dates, concepts due for recall, relevant Articles/Schedules/Acts/cases, current legal updates, previous errors, weak areas and reason revision is due. Keep this information in repository records and use it to select appropriate recall tasks. Do not display a separate revision brief or administrative panel before the learner begins.
 
----
+## Learner-facing format
 
-# REVISION / ACTIVE RECALL STARTS HERE
+Start directly with:
 
-## Part B — Recall and application
+```markdown
+# THE ACTUAL REVISION STARTS HERE
 
-Place no-notes recall prompts, learner responses, MCQs, PYQ links, Mains application and feedback below this heading.
+[First recall prompt or revision content appears immediately.]
+```
 
-## Revision result
-Record date, result, concepts recalled accurately, errors, remaining gaps and next revision due with rationale.
+Do not place a Part A, source-verification table or course-position block before the revision activity.
+
+Record learner responses, MCQs, PYQ links, Mains application and feedback. After the activity, record the result, concepts recalled accurately, errors, remaining gaps and next revision due with rationale.
 
 Set revision timing from demonstrated retention and error patterns, not an arbitrary fixed timetable.
