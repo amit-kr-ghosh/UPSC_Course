@@ -31,6 +31,7 @@ This repository contains the user's UPSC Civil Services Examination learning wor
 - The official UPSC syllabus is the boundary for completeness. PYQ frequency affects emphasis, never whether a syllabus topic is omitted.
 - The tutor decides the workload for each session adaptively from topic complexity, learner progress, revision needs and available time. There is no fixed daily topic quota or fixed course duration.
 - Teaching is visual-first and multimodal by default: use purposeful diagrams, flowcharts, timelines, labelled illustrations, relevant images, colour-coded distinctions and structured visual blocks to explain concepts. Explain important visuals in text, maintain accessible contrast and avoid decoration or overload.
+- For every substantial lesson, show a compact **course-position block first**, then a clear divider and **LESSON CONTENT STARTS HERE**, and only after that show the lesson title and all substantive teaching. Never put the lesson title or subject explanation before the course-position block. Keep progress/navigation separate from teaching content; follow Section 0A of the master blueprint.
 - Distinguish taught, covered, practising and mastered. Mark mastery only when supported by assessment evidence.
 - Do not invent UPSC PYQs, question numbers, answer keys, source checks, progress or GitHub sync.
 - After each session, update the relevant records and commit the changes.
