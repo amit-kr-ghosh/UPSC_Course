@@ -1,32 +1,23 @@
 # UPSC PYQ Practice
 
-Store attempts and analysis of actual UPSC Polity PYQs. Keep question metadata and verification separate from the practice activity.
+Store attempts and analysis of actual UPSC Polity PYQs.
 
-## Part A — PYQ identification and verification
+## Internal PYQ identification and verification — do not display as a preamble
 
-Before presenting or attempting a question, record:
-- Exam year and stage/paper:
-- Official question number or source identifier exactly as shown:
-- Primary topic and module mapping:
-- Exact PYQ Register verification label and caveats:
-- Source for wording/options:
-- Source for answer key:
-- Syllabus / learning objective tested:
+Before presenting a question, verify its exam year/stage/paper, official question number or source identifier, wording/options, topic/module mapping, exact PYQ Register verification label and caveats, and answer-key source. Preserve provisional labels. If wording or answer is uncertain, state that in the explanation or do not present it as verified.
 
-Do not invent numbering or promote provisional records to officially verified status. If wording or answer is uncertain, state that clearly.
+This is tutor/repository preparation. Do not show a separate metadata panel or make the learner scroll past administrative details before attempting the question.
 
----
+## Learner-facing format
 
-# PYQ PRACTICE STARTS HERE
+Start directly with:
 
-## Part B — Question and attempt
+```markdown
+# THE ACTUAL PYQ PRACTICE STARTS HERE
 
-Present the source-supported question/options here, then record:
-- Learner answer and confidence:
-- Correct answer and authoritative answer-key source:
-- Option-wise reasoning:
-- Error type:
-- Conceptual explanation and elimination logic:
-- Revision action:
+[Present the source-supported UPSC question and options immediately.]
+```
+
+Then record the learner's answer and confidence, correct answer and authoritative answer-key source, option-wise reasoning, error type, conceptual explanation, elimination logic and revision action.
 
 Store tutor-created questions separately and label them as original practice; never present them as actual UPSC PYQs.
