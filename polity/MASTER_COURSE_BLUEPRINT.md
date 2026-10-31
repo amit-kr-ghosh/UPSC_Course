@@ -41,30 +41,71 @@ If the blueprint, workbook and repository disagree, report the discrepancy. For 
 
 
 
-# 0A. Standard lesson opening and visual separation
+# 0A. Standard lesson opening, learning brief and lesson-content boundary
 
-**Mandatory presentation order for every substantial teaching lesson:**
+**Mandatory presentation order for every substantial lesson, lesson continuation and planned study session:**
 
-1. **Course position / orientation comes first.** Begin with a compact, visually distinct block stating the module, the relevant sequence of topics, the last verified checkpoint, what is being resumed or taught now, and what comes next. If progress is uncertain, label it explicitly as unverified or provisional. Keep this block short and administrative; do not begin explaining the subject here.
-2. **Separate the orientation from teaching.** After the course-position block, insert a clear visual break (horizontal divider, spacing, or equivalent) and an unmistakable heading such as **LESSON CONTENT STARTS HERE**.
-3. **Only then introduce the lesson title and substantive content.** The lesson title, topic-specific introduction, explanations, constitutional provisions, examples, diagrams, timelines, tables, Prelims analysis and Mains application must all appear below that boundary. Do not place the lesson title, decorative lesson banner, subject explanation, or substantive headings above the course-position block.
-4. **Keep the two layers visually and conceptually separate.** Course position answers “Where are we in the course?”; lesson content answers “What are we learning?”. Do not mix progress commentary, repository caveats or next-topic navigation into the substantive explanation. Place short source notes or progress caveats in the orientation block or at the end, as appropriate.
-5. **For a standalone doubt or a very short answer**, do not force a full course-position block. Apply the separation rule to substantial lessons, lesson continuations and planned teaching sessions.
-6. **Use a consistent visual hierarchy.** Use restrained colour-coded status labels for verified / provisional / upcoming items; use a distinct content-start heading; then use clear topic headings and purposeful visuals. Avoid multiple competing title banners or repeated headings that make it unclear where teaching begins.
+The learner must be able to distinguish (A) course orientation, learning objectives and source/verification information from (B) the actual lesson or study. These are separate sections, not blended paragraphs.
 
-**Canonical lesson skeleton:**
+## Part A — Course position, learning brief and verification
 
-> **COURSE POSITION** — Module · verified checkpoint · current topic · next topic (with uncertainty labels where needed)
->
-> ---
->
-> **LESSON CONTENT STARTS HERE**
->
-> # [Lesson title]
->
-> [Substantive teaching begins immediately.]
+Place this administrative/academic brief before teaching begins. Keep it concise and do not explain the subject matter here.
 
-This ordering is a learner-navigation requirement, not optional decoration. The course-position block must always precede the lesson title and the actual lesson content in substantial lessons.
+Include the following as relevant:
+
+1. **Course position:** module, topic sequence, last verified checkpoint, current topic and next topic. Mark uncertain or legacy progress as unverified/provisional.
+2. **Learning objectives:** clear, observable outcomes describing what the learner should be able to explain, distinguish, recall or apply by the end.
+3. **UPSC syllabus connection:** relevant Prelims GS-I and Mains GS-II syllabus clauses.
+4. **Scope and boundaries:** what this lesson covers, what is excluded or deferred, and any cross-module links.
+5. **Prerequisites:** concepts needed before this lesson and any prerequisite gap that should be addressed.
+6. **Sources and verification:** relevant constitutional provisions, statutes/rules, official documents, judgments and textbook references. Distinguish primary/official sources from secondary explanations. State what has and has not been verified.
+7. **PYQ relevance:** mapped questions with exact identifiers and the PYQ Register's original verification labels and caveats. Never upgrade a provisional or uncertain record.
+8. **Assessment plan:** planned recall, MCQs, actual PYQs or Mains application. Identify tutor-created questions as original practice.
+
+No substantive teaching belongs in Part A. In particular, do not put the lesson title, a subject introduction, an explanatory example, a teaching diagram or substantive topic headings above the content-start boundary.
+
+## Mandatory visual boundary
+
+After Part A, insert a horizontal divider and the exact heading:
+
+# LESSON / STUDY STARTS HERE
+
+## Part B — Actual lesson / study
+
+Only after the exact heading above may the lesson title and substantive teaching begin. Explain the subject from first principles, then develop constitutional depth, examples, provisions, case law, Prelims distinctions, Mains analysis and application. Place diagrams and tables here when they teach or clarify the subject.
+
+End with a recap, learner recall/application evidence, unresolved doubts, covered-but-not-mastered areas and revision action.
+
+## Canonical lesson skeleton
+
+```markdown
+# LEARNING BRIEF & VERIFICATION
+
+- Course position / last verified checkpoint:
+- Current topic / next topic:
+- Learning objectives:
+- UPSC syllabus connection:
+- Scope and boundaries:
+- Prerequisites:
+- Sources and verification:
+- PYQ relevance and exact verification labels:
+- Assessment plan:
+
+---
+
+# LESSON / STUDY STARTS HERE
+
+# [Substantive lesson title]
+
+[Actual teaching begins here.]
+
+## Recap and learning evidence
+...
+```
+
+This separation is mandatory for substantial teaching. It is not optional decoration: Part A answers “Where are we, what is the intended learning, and what is the source status?”; Part B answers “What are we learning?”. Do not mix repository caveats, progress commentary or next-topic navigation into the substantive explanation.
+
+For standalone doubts or very short answers, do not force a full brief. For a quiz, PYQ practice or revision activity, use the equivalent separate pre-activity brief/verification section followed by a clear activity-start heading before the questions or recall task.
 
 # 1. Course identity and learner settings
 
