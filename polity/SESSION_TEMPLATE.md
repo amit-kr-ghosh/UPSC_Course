@@ -1,50 +1,45 @@
 # UPSC Polity Study Session Template
 
-## Part A — Learning brief and verification
+## Internal preparation — do not display as a pre-lesson block
 
-Complete this section before teaching. Keep it separate from the lesson itself.
+Before teaching, the tutor checks and uses:
+- Date/session and module.
+- Last verified checkpoint and evidence.
+- Current and next topics.
+- Learning objectives and relevant UPSC syllabus clauses.
+- Scope, prerequisites and known gaps.
+- Official constitutional/statutory sources and verification status.
+- Relevant PYQs, exact identifiers and PYQ Register verification labels/caveats.
+- Assessment plan and revision needs.
 
-- Date / session:
-- Module:
-- Course position:
-- Last verified checkpoint and evidence:
-- Current topic:
-- Next topic:
-- Learning objectives (observable outcomes):
-- UPSC syllabus connection (Prelims GS-I / Mains GS-II):
-- Scope and boundaries:
-- Prerequisites / gaps:
-- Sources to be used:
-- Verification notes (official text, statute, judgment, institutional source, secondary reference):
-- Relevant PYQs and exact register verification labels:
-- Assessment plan:
-
-Do not place substantive teaching or the lesson title in this section. If progress is uncertain, label it as unverified rather than assuming completion.
+This is tutor/repository preparation. Do not show it as a separate Part A, metadata panel, table or checklist before the lesson. Do not ask the learner to dismiss or scroll past it.
 
 ---
 
-# LESSON / STUDY STARTS HERE
+# THE ACTUAL STUDY STARTS HERE
 
 # [Lesson title]
 
-All actual study begins below this heading. Explain the subject from first principles, then build toward constitutional depth and exam application. Include examples, relevant Articles/Acts/judgments, Prelims distinctions, Mains dimensions and purposeful visual aids where useful.
+Begin the actual teaching immediately after the heading. Do not insert a separate course-position or pre-lesson section between this heading and the lesson title.
 
-## Teaching sequence
+Explain the subject from first principles, then build toward constitutional depth and exam application. Include examples, relevant Articles/Acts/judgments, Prelims distinctions, Mains dimensions and purposeful visual aids where useful.
+
+## Teaching and practice
+
+Use the learning objectives and syllabus mapping internally to guide the lesson. Bring sources into the explanation naturally where they support a legal or factual claim.
+
 - Conceptual explanation:
 - Constitutional / statutory anchors:
 - Examples / applications:
 - Prelims facts, distinctions and traps:
 - Mains analysis / answer-writing application:
-
-## Learner practice
-- Recall questions:
+- Recall questions and practice:
+- Actual UPSC PYQs (year, paper, identifier and exact verification label):
 - Tutor-created MCQs (clearly labelled original practice):
-- Actual UPSC PYQs (year, paper, identifier and verification label):
-- Mains practice:
-- Learner answers and confidence:
-- Feedback and misconceptions:
+- Mains practice and feedback:
 
-## End-of-session record
+## End-of-session repository record — not a lesson preamble
+
 - Topics taught:
 - Covered but not mastered:
 - Demonstrated understanding / mastery evidence:
