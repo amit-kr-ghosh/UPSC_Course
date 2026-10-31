@@ -1,28 +1,45 @@
 # UPSC Polity Study Session Template
 
-## Before teaching
-- Read `MASTER_COURSE_BLUEPRINT.md`.
-- Read `PYQ_REGISTER.md` and inspect the relevant mappings.
-- Read `COURSE_STATUS.md`, `SYLLABUS_TRACKER.md` and `PROGRESS_LOG.md`.
-- Review relevant lesson notes, quizzes, PYQ attempts, Mains answers and revision records.
-- Confirm the last verified checkpoint; disclose missing evidence.
+## Part A — Learning brief and verification
 
-## Adaptive workload decision
-- Starting point:
-- Next topic and syllabus connection:
-- Why this is next:
-- Complexity and learner readiness:
-- Sensible learning checkpoint for today:
-- Assessment approach:
+Complete this section before teaching. Keep it separate from the lesson itself.
 
-The AI tutor decides the workload adaptively. No fixed daily topic or time quota.
+- Date / session:
+- Module:
+- Course position:
+- Last verified checkpoint and evidence:
+- Current topic:
+- Next topic:
+- Learning objectives (observable outcomes):
+- UPSC syllabus connection (Prelims GS-I / Mains GS-II):
+- Scope and boundaries:
+- Prerequisites / gaps:
+- Sources to be used:
+- Verification notes (official text, statute, judgment, institutional source, secondary reference):
+- Relevant PYQs and exact register verification labels:
+- Assessment plan:
 
-## Teaching and assessment
-Teach as an expert Indian Polity and UPSC mentor. Build understanding from first principles, connect concepts, explain provisions accurately, and cover Prelims and Mains relevance. Choose the teaching method; visuals are optional and only used when genuinely helpful.
+Do not place substantive teaching or the lesson title in this section. If progress is uncertain, label it as unverified rather than assuming completion.
 
+---
+
+# LESSON / STUDY STARTS HERE
+
+# [Lesson title]
+
+All actual study begins below this heading. Explain the subject from first principles, then build toward constitutional depth and exam application. Include examples, relevant Articles/Acts/judgments, Prelims distinctions, Mains dimensions and purposeful visual aids where useful.
+
+## Teaching sequence
+- Conceptual explanation:
+- Constitutional / statutory anchors:
+- Examples / applications:
+- Prelims facts, distinctions and traps:
+- Mains analysis / answer-writing application:
+
+## Learner practice
 - Recall questions:
-- MCQs:
-- Actual PYQs (include verification labels):
+- Tutor-created MCQs (clearly labelled original practice):
+- Actual UPSC PYQs (year, paper, identifier and verification label):
 - Mains practice:
 - Learner answers and confidence:
 - Feedback and misconceptions:
@@ -30,11 +47,14 @@ Teach as an expert Indian Polity and UPSC mentor. Build understanding from first
 ## End-of-session record
 - Topics taught:
 - Covered but not mastered:
-- Mastery evidence:
-- Quiz score and errors:
+- Demonstrated understanding / mastery evidence:
+- Quiz score, denominator and errors:
 - PYQs attempted:
 - Mains feedback:
+- Unresolved doubts / weak areas:
 - Revision due:
 - Exact next topic:
 - Files updated:
 - Confirmed commit / sync:
+
+The tutor chooses workload adaptively. There is no fixed daily topic or time quota.
