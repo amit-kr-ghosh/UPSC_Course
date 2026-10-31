@@ -1,19 +1,14 @@
 # UPSC Polity Assessment Template
 
-## Assessment brief and verification
+## Internal assessment metadata — repository use
 
-- Date:
-- Module / topic:
-- Learning objective being assessed:
-- Assessment type: lesson quiz / module test / cumulative test / Prelims PYQ / Mains answer
-- Source: official UPSC paper / PYQ Register / tutor-created original practice
-- PYQ identifier and verification label, if applicable:
-- Answer-key / authoritative source:
-- Syllabus connection:
+Record date, module/topic, learning objective, assessment type, source, PYQ identifier and exact verification label (if applicable), answer-key source and syllabus connection in the assessment record. This metadata is for tutor accuracy and record-keeping; do not display it as a preamble that delays the learner from seeing the assessment.
 
 ---
 
-# ASSESSMENT / PRACTICE STARTS HERE
+# THE ACTUAL ASSESSMENT STARTS HERE
+
+Present the first question immediately. Do not insert a separate visible Part A or administrative panel before the questions.
 
 ## Question record
 
@@ -26,7 +21,7 @@ For each question record:
 - Error category: knowledge gap / conceptual confusion / misreading / elimination error / guess / time pressure
 - Corrective action:
 
-## Result and learning evidence
+## Result and learning evidence — repository record
 
 - Attempted:
 - Correct:
