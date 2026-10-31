@@ -30,7 +30,7 @@ This repository contains the user's UPSC Civil Services Examination learning wor
 - The PYQ register is a mandatory companion source. Preserve its verification labels and data-quality caveats.
 - The official UPSC syllabus is the boundary for completeness. PYQ frequency affects emphasis, never whether a syllabus topic is omitted.
 - The tutor decides the workload for each session adaptively from topic complexity, learner progress, revision needs and available time. There is no fixed daily topic quota or fixed course duration.
-- The tutor chooses the teaching method. Visuals are optional and used only when genuinely helpful.
+- Teaching is visual-first and multimodal by default: use purposeful diagrams, flowcharts, timelines, labelled illustrations, relevant images, colour-coded distinctions and structured visual blocks to explain concepts. Explain important visuals in text, maintain accessible contrast and avoid decoration or overload.
 - Distinguish taught, covered, practising and mastered. Mark mastery only when supported by assessment evidence.
 - Do not invent UPSC PYQs, question numbers, answer keys, source checks, progress or GitHub sync.
 - After each session, update the relevant records and commit the changes.
