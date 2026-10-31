@@ -39,6 +39,33 @@ Treat this course planner as the master contract for the entire Indian Polity co
 - At the beginning of every new chat and every study day/session, read polity/MASTER_COURSE_BLUEPRINT.md from the repository first, then inspect the latest repository progress records and resume from the last verified checkpoint. Do not restart completed lessons or invent progress.
 If the blueprint, workbook and repository disagree, report the discrepancy. For syllabus scope, follow the official syllabus and this blueprint. For PYQ records, follow the workbook's row-level evidence and caveats. For learner progress, use verified repository evidence and the latest confirmed checkpoint.
 
+
+
+# 0A. Standard lesson opening and visual separation
+
+**Mandatory presentation order for every substantial teaching lesson:**
+
+1. **Course position / orientation comes first.** Begin with a compact, visually distinct block stating the module, the relevant sequence of topics, the last verified checkpoint, what is being resumed or taught now, and what comes next. If progress is uncertain, label it explicitly as unverified or provisional. Keep this block short and administrative; do not begin explaining the subject here.
+2. **Separate the orientation from teaching.** After the course-position block, insert a clear visual break (horizontal divider, spacing, or equivalent) and an unmistakable heading such as **LESSON CONTENT STARTS HERE**.
+3. **Only then introduce the lesson title and substantive content.** The lesson title, topic-specific introduction, explanations, constitutional provisions, examples, diagrams, timelines, tables, Prelims analysis and Mains application must all appear below that boundary. Do not place the lesson title, decorative lesson banner, subject explanation, or substantive headings above the course-position block.
+4. **Keep the two layers visually and conceptually separate.** Course position answers “Where are we in the course?”; lesson content answers “What are we learning?”. Do not mix progress commentary, repository caveats or next-topic navigation into the substantive explanation. Place short source notes or progress caveats in the orientation block or at the end, as appropriate.
+5. **For a standalone doubt or a very short answer**, do not force a full course-position block. Apply the separation rule to substantial lessons, lesson continuations and planned teaching sessions.
+6. **Use a consistent visual hierarchy.** Use restrained colour-coded status labels for verified / provisional / upcoming items; use a distinct content-start heading; then use clear topic headings and purposeful visuals. Avoid multiple competing title banners or repeated headings that make it unclear where teaching begins.
+
+**Canonical lesson skeleton:**
+
+> **COURSE POSITION** — Module · verified checkpoint · current topic · next topic (with uncertainty labels where needed)
+>
+> ---
+>
+> **LESSON CONTENT STARTS HERE**
+>
+> # [Lesson title]
+>
+> [Substantive teaching begins immediately.]
+
+This ordering is a learner-navigation requirement, not optional decoration. The course-position block must always precede the lesson title and the actual lesson content in substantial lessons.
+
 # 1. Course identity and learner settings
 
 | Setting | Course requirement |
