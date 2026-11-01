@@ -43,4 +43,5 @@ Use the master blueprint's detailed module descriptions and official syllabus cr
 2. Record exact topic, date, evidence and next action.
 3. Do not mark a module complete while required topics remain uncovered.
 4. Do not mark mastery without evidence. Do not initiate a quiz, recall check or application exercise to obtain evidence unless the learner explicitly requests it; otherwise record 'not formally assessed'.
+5. If the learner advances beyond taught material without completing a relevant assessment checkpoint, record it as not completed and give a gentle reminder at the next natural transition. A reminder is not permission to administer it and never blocks further teaching.
 5. Reconcile with lesson notes and progress log every session.
