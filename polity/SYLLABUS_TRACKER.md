@@ -36,7 +36,7 @@ Use the master blueprint's detailed module descriptions and official syllabus cr
 
 | Module | Topic / syllabus clause | Teaching status | Prelims evidence | Mains evidence | Revision due | Notes |
 |---|---|---|---|---|---|---|
-| 1 | Company Rule (1773–1858): Regulating Act 1773; Pitt's India Act 1784; Charter Acts 1813, 1833 and 1853; preceding Company expansion and Diwani | Covered | Key provisions, chronology and common confusions taught; recall assessment pending | Historical institutional evolution and colonial-versus-democratic distinction discussed | Before next topic | Lesson note: `LESSON_NOTES/DAY_01_COMPANY_RULE_1773_1858.md`; no PYQ attempted |
+| 1 | Company Rule (1773–1858): Regulating Act 1773; Pitt's India Act 1784; Charter Acts 1813, 1833 and 1853; preceding Company expansion and Diwani | Covered | Key provisions, chronology and common confusions taught; recall assessment pending | Historical institutional evolution and colonial-versus-democratic distinction discussed | Before next topic | Lesson note: `LESSON_NOTES/DAY_01_COMPANY_RULE_1773_1858.md`; no PYQ attempted. Delivery preference recorded: future teaching must be concept-by-concept in small coherent units, pausing for learner readiness between units. |
 
 ## Update rules
 1. Update only after an actual lesson or assessment.
