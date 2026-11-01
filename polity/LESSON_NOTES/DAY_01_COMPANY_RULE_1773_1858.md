@@ -3,7 +3,7 @@
 **Date:** 1 November 2026  
 **Course:** UPSC CSE Indian Polity Master Course  
 **Module:** 1 — Historical Background and Making of the Constitution  
-**Session status:** Teaching delivered; learner assessment pending.
+**Session status:** Teaching delivered; no assessment requested or attempted.
 
 ## Scope taught
 
@@ -34,11 +34,11 @@ Mains application discussed: colonial institutional evolution as a foundation fo
 ## Learning evidence
 
 - Teaching delivered in this session.
-- No learner quiz responses or independent recall evidence recorded yet.
-- Status: **Covered (teaching completed), mastery not demonstrated**.
+- No learner quiz responses or independent recall evidence recorded; no assessment has been requested.
+- Status: **Covered (teaching completed), mastery not formally assessed**.
 - PYQs: none attempted in this session. No PYQ has been represented as an official question or answer.
-- Revision: short recall quiz on the five Acts and their distinguishing provisions is due before moving on.
+- Revision/assessment: none scheduled by default. Do not initiate a recall quiz, test or practical unless the learner explicitly requests it.
 
 ## Next checkpoint
 
-Conduct a short Day 1 recall assessment. Analyse errors, then proceed to Crown Rule (1858–1947), beginning with the Government of India Act, 1858.
+When the learner asks to continue, resume with one concept-sized teaching unit at a time. Do not conduct a recall assessment or other practice unless explicitly requested.
