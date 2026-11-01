@@ -14,7 +14,7 @@ Governing source: `MASTER_COURSE_BLUEPRINT.md`. PYQ source: `PYQ_REGISTER.md`.
 ## Module tracker
 | Module | Coverage area | Status | Evidence / notes |
 |---|---|---|---|
-| 1 | Historical Background and Making of the Constitution | Not reconciled | Day 1 Company Rule (1773–1858) reported taught; Crown Rule (1858–1947) next planned. Verify lesson notes first. |
+| 1 | Historical Background and Making of the Constitution | Introduced | Day 1 Company Rule (1773–1858) lesson delivered on 2026-11-01; topic covered, mastery pending assessment. Crown Rule and Constituent Assembly remain. |
 | 2 | Salient Features, Preamble and Constitutional Philosophy | Not started | |
 | 3 | Union and its Territory, Citizenship and Schedules | Not started | |
 | 4 | Fundamental Rights | Not started | |
@@ -36,6 +36,7 @@ Use the master blueprint's detailed module descriptions and official syllabus cr
 
 | Module | Topic / syllabus clause | Teaching status | Prelims evidence | Mains evidence | Revision due | Notes |
 |---|---|---|---|---|---|---|
+| 1 | Company Rule (1773–1858): Regulating Act 1773; Pitt's India Act 1784; Charter Acts 1813, 1833 and 1853; preceding Company expansion and Diwani | Covered | Key provisions, chronology and common confusions taught; recall assessment pending | Historical institutional evolution and colonial-versus-democratic distinction discussed | Before next topic | Lesson note: `LESSON_NOTES/DAY_01_COMPANY_RULE_1773_1858.md`; no PYQ attempted |
 
 ## Update rules
 1. Update only after an actual lesson or assessment.
