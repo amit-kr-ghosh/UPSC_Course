@@ -9,6 +9,7 @@ Chronological record of actual study sessions. Add newest entries at the top.
 - Session design: A study day can span multiple exchanges or sessions. Do not auto-advance.
 - **Assessment consent:** Do not give quizzes, MCQs, tests, assessments, practicals, exercises, recall checks, diagnostics, homework, PYQ practice or Mains answer-writing tasks unless the learner explicitly requests that specific activity. Teach the concepts properly first and allow time for questions and clarification. Assessment is never a condition for moving to the next concept. If none is requested, record mastery as 'not formally assessed'.
 - These are governing preferences for all future Polity chats and must be followed alongside the Master Course Blueprint.
+- **Assessment follow-up reminder:** If the learner moves to later concepts/lessons/days without completing relevant quizzes or assessments, gently remind them that the checkpoint remains incomplete and ask whether they want to complete it now or continue. Do not generate the assessment until explicitly requested; the reminder is not consent and never blocks progression.
 
 ## Session log
 
