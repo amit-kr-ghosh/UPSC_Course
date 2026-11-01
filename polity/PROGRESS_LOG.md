@@ -2,10 +2,18 @@
 
 Chronological record of actual study sessions. Add newest entries at the top.
 
+## Standing learner preference — recorded 2026-11-01
+- Teaching pace: Do not deliver an entire study day, chapter or module in one response by default.
+- Delivery unit: One concept or small, logically complete concept-cluster at a time.
+- Interaction: Explain the current unit, then pause for the learner's doubt, recall or explicit signal to continue. The learner controls progression.
+- Session design: A study day can span multiple exchanges or sessions. Do not auto-advance or append a full-day assessment without learner readiness/request.
+- This is a governing delivery preference for all future Polity chats and must be followed alongside the Master Course Blueprint.
+
 ## Session log
 
 ### 2026-11-01 — Day 1 — Module 1: Company Rule (1773–1858)
 - Starting checkpoint: Course repository contained an unverified legacy Day 1 checkpoint for Company Rule; no lesson note or later session log was available to substantiate it. This session establishes the first verified live lesson record.
+- Learner feedback after the lesson: The full Day 1 scope was delivered in one response, which was too much at once. For all future sessions, teach incrementally—one concept/small concept-cluster per response—and pause for the learner to continue.
 - Topics taught: East India Company origins and territorial expansion; Plassey (1757), Buxar (1764), Diwani (1765), Dual Government; Regulating Act 1773; Pitt's India Act 1784; Charter Acts 1813, 1833 and 1853.
 - Covered but not mastered: Entire Company Rule teaching scope listed above; independent recall not yet assessed.
 - Prelims concepts / MCQs: Five-Act chronology, institutional developments and common traps explained; no MCQ responses yet.
@@ -16,8 +24,8 @@ Chronological record of actual study sessions. Add newest entries at the top.
 - Revision due: Short recall assessment before proceeding.
 - Evidence files created or updated: `LESSON_NOTES/DAY_01_COMPANY_RULE_1773_1858.md`, `COURSE_STATUS.md`, `SYLLABUS_TRACKER.md`, `PROGRESS_LOG.md`.
 - Ending checkpoint: Day 1 Company Rule lesson delivered; mastery not demonstrated.
-- Next topic: Crown Rule (1858–1947), beginning with Government of India Act, 1858, after recall assessment.
-- Suggested next-session workload and rationale: Brief recall assessment followed by Crown Rule; consolidate the five Acts before adding the next historical phase.
+- Next topic: Continue Company Rule in small concept units from the learner's actual stopping point; proceed to Crown Rule only after Company Rule is completed. Do not deliver a full day/topic in one go.
+- Suggested next-session workload and rationale: One concept-sized unit only, with a brief recall check if appropriate; learner controls when to continue.
 - GitHub sync / commit (only after confirmed): Lesson note and progress records committed; final verification pending.
 
 ## Legacy checkpoint (superseded)
