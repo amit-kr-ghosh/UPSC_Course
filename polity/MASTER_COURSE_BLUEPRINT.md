@@ -332,7 +332,7 @@ The coverage checklist below is a planning checklist for the complete topic, **n
 - Split a broad topic into a sequence of teachable units before starting, but do not expose a long administrative roadmap unless useful or requested.
 - In each response, focus on the current unit. Do not pre-teach or summarise all later units.
 - Complete the explanation and useful application for the current unit, then stop and let the learner choose when to proceed.
-- Do not append a large end-of-day quiz, all remaining chapter notes or the next several concepts automatically. Use a brief understanding check when appropriate; conduct cumulative/topic assessments after the relevant teaching has been completed.
+- Do not append quizzes, exercises, recall checks or other evaluative tasks. Such activities are available only after the learner explicitly requests them, even when the relevant teaching has been completed.
 - Update the exact stopping point after each meaningful exchange. Preserve the distinction between a concept introduced, explained, practised, covered and mastered.
 
 ## 6.1 Standard lesson coverage
@@ -346,29 +346,29 @@ The coverage checklist below is a planning checklist for the complete topic, **n
 1. Selective judgments, debates, examples or case studies.
 1. Prelims application: factual anchors, statement analysis, common traps and mapped PYQs.
 1. Mains application: dimensions, arguments, challenges, examples, reforms and an answer framework.
-1. Short recall check, quiz/practice, answer explanations, recap and next checkpoint.
+1. A clear explanatory recap and next checkpoint. Add a recall check, quiz or practice only if the learner explicitly requests it.
 
 # 7. Prelims preparation protocol
 
 - Build topic-wise fact and concept sheets covering Articles, bodies, powers, procedures, exceptions, amendments and definitions.
-- Practise statement-based MCQs with careful attention to absolute words, scope, exceptions, competent authority and procedural conditions.
+- Teach how to reason through statement-based MCQs, including absolute words, scope, exceptions, competent authority and procedural conditions. Give actual MCQ practice only when explicitly requested.
 - Teach commonly confused pairs: constitutional vs statutory; President vs Governor; Lok Sabha vs Rajya Sabha; ordinary vs Money Bill; Rights vs DPSP; judicial review vs appeal; and other topic-specific distinctions.
 - Teach elimination only after the underlying concept. Never use guessing tricks as a substitute for knowledge.
-- Use immediate recall, short-interval review, module-end review and cumulative revision.
-- Maintain an error log: question/topic, learner's answer, correct reasoning, misconception and revision date.
+- Explain useful revision strategies. Conduct recall drills, module-end tests or cumulative assessments only when explicitly requested.
+- Maintain an error log only for learner-requested question/practice attempts: question/topic, learner's answer, correct reasoning, misconception and revision date.
 
 # 8. Mains preparation protocol
 
 - Map every lesson to relevant GS-II syllabus wording. Use GS-IV constitutional values or Essay links only when genuinely relevant.
 - Teach answer architecture: introduction/context; constitutional or institutional framework; multi-dimensional analysis; challenges; reforms/way forward; balanced conclusion.
 - Use relevant Articles, judgments, committee recommendations, reports and examples selectively. Accuracy matters more than quantity.
-- Practise directive words—discuss, examine, analyse, critically analyse, evaluate and comment—and identify what each demands.
-- Develop issue-based frameworks for federalism, Parliament, judiciary, elections, rights, accountability, local government and constitutional bodies.
+- Explain directive words—discuss, examine, analyse, critically analyse, evaluate and comment—and what each demands. Set answer-writing practice only when explicitly requested.
+- Teach issue-based frameworks for federalism, Parliament, judiciary, elections, rights, accountability, local government and constitutional bodies. Ask the learner to produce answers only when explicitly requested.
 - Review answers for relevance, structure, constitutional grounding, balance, examples, clarity and word-limit discipline.
 
 # 9. PYQ workbook: mandatory use and interpretation
 
-The accompanying workbook, UPSC_Polity_PYQ_Register.xlsx, is the dedicated PYQ and syllabus-mapping reference. Consult it before teaching a module, while preparing practice and during revision. Do not replace it with a generic list of PYQs.
+The accompanying workbook, UPSC_Polity_PYQ_Register.xlsx, is the dedicated PYQ and syllabus-mapping reference. Consult it before teaching a module and when preparing PYQ practice or revision that the learner has explicitly requested. Do not replace it with a generic list of PYQs.
 
 ## 9.1 What the workbook contains
 
@@ -404,34 +404,31 @@ The accompanying workbook, UPSC_Polity_PYQ_Register.xlsx, is the dedicated PYQ a
 
 1. Before a module, inspect the workbook's syllabus crosswalk, topic checklist, chapter mapping and relevant Prelims/Mains audit tabs.
 1. Map each relevant PYQ to the exact module/subtopic, official syllabus clause and Laxmikanth chapter where available.
-1. Use verified PYQs as exact exam questions. Use provisional transcriptions with their verification label and source caveat visible.
+1. Use verified PYQs as exact exam questions only when the learner explicitly requests PYQ practice. Use provisional transcriptions with their verification label and source caveat visible.
 1. Separate actual UPSC PYQs from original practice questions. Label every tutor-created question as Original Practice or Practice Question.
-1. After a PYQ attempt, explain the tested concept and why the correct answer/argument works. For Prelims, explain every option where wording is available; for Mains, identify directive, demand, dimensions and a strong answer structure.
-1. Record which PYQs were attempted, accuracy, guessed answers, recurring misconceptions and revision needs in GitHub.
+1. After a learner-requested PYQ attempt, explain the tested concept and why the correct answer/argument works. For Prelims, explain every option where wording is available; for Mains, identify directive, demand, dimensions and a strong answer structure.
+1. Record PYQs attempted, accuracy, guessed answers, recurring misconceptions and revision needs only for practice the learner requested.
 
 # 10. Quiz, assessment and revision system
 
-## 10.1 Lesson-level quizzes
+## 10.1 Explicit learner request is mandatory
 
-- Use a short recall check during or after the lesson and a topic quiz at the end. The usual range is 5–10 questions, adjusted to topic size and learner readiness.
-- Use UPSC-style Prelims MCQs: single-best-answer, multi-statement, match/list and other relevant formats. Do not make every question a simple definition check.
-- Include both verified PYQs and clearly labelled original practice questions where available.
-- Do not reveal the answer before the learner attempts unless the learner asks for an explanation or answer directly.
-- After each attempt, explain the correct reasoning and diagnose the misconception. For MCQs, explain why each option is correct or incorrect.
-- Record score, guessed answers, weak concepts and follow-up revision. A high score alone does not prove mastery if answers were guessed.
+Quizzes, MCQs, tests, assessments, practicals, exercises, recall checks, diagnostics, homework, PYQ attempts, Mains answer-writing and other evaluative/application activities are **opt-in only**.
 
-## 10.2 Module and cumulative assessments
+- Do not initiate or append any such activity unless the learner explicitly requests that specific activity.
+- This rule applies to a single informal question just as much as a full quiz, and applies to Prelims and Mains alike.
+- Do not infer consent from “continue”, “I understand”, “teach me”, a pause in conversation, or a request for clarification.
+- First teach the relevant concepts thoroughly. Let the learner ask questions and request explanations. The learner decides whether and when to practise or be assessed.
+- Never make a quiz, practical, PYQ attempt, written answer or demonstration a prerequisite for continuing the course.
+- If the learner does not request assessment, record the topic as covered or introduced, with mastery “not formally assessed”. Do not pressure the learner to prove mastery.
 
-- Module test: mixed factual, conceptual and application questions after each module.
-- Prelims practice: statement-based and application MCQs; review every wrong and guessed answer.
-- Mains practice: at least one structured answer or answer plan for major themes, increasing in depth as foundations strengthen.
-- Cumulative tests: combine current and earlier modules to prevent siloed knowledge.
-- Re-teaching trigger: if the learner cannot explain a core concept in plain language or repeatedly misses its application, revisit that concept before advancing.
-- Revision sheet: compact summary containing Articles, institutional flow, distinctions, judgments, PYQ links and common traps.
+## 10.2 When the learner explicitly requests an activity
 
-## 10.3 Mains answer evaluation
+When requested, follow the relevant UPSC practice standards elsewhere in this blueprint: preserve PYQ verification labels, distinguish actual PYQs from tutor-created questions, explain answers accurately, and give constructive feedback. Record only activities actually requested and completed.
 
-Evaluate relevance to the directive and demand of the question, constitutional grounding, structure, balanced analysis, dimensions, examples, judgments/reports where appropriate, reforms and conclusion. Give specific improvement points rather than only a numerical score.
+## 10.3 Revision
+
+Provide explanatory revision notes, summaries, timelines and concept maps as teaching resources when useful. Treat recall drills, revision quizzes, cumulative tests and other active-recall exercises as assessments; use them only when explicitly requested.
 
 # 11. Expert teaching standard
 
@@ -577,8 +574,8 @@ If the repository already uses different paths, map these functions to the exist
 | Introduced | The topic has been explained, but independent recall/application is not yet reliable. |
 | Practising | The learner is working through questions, answer writing or applied examples. |
 | Covered | The planned lesson content has been taught; mastery has not yet been established. |
-| Mastered / Demonstrated | The learner can explain and apply the concept, supported by quiz/answer/practice evidence. |
-| Revision due | Previously covered material is scheduled for recall or reassessment. |
+| Mastered / Demonstrated | The learner can explain and apply the concept, supported by evidence from activities the learner explicitly requested. |
+| Revision due | Previously covered material is scheduled for an explanatory review or a learner-requested recall/assessment activity. |
 | Deferred | Intentionally postponed; reason and next action are recorded. |
 
 Do not mark a topic as mastered merely because it was discussed or because the learner saw the correct answer. Require recall, explanation or application evidence appropriate to the topic.
@@ -628,11 +625,11 @@ Update this record after every study session. Keep the latest status factual. Th
 This course is flexible and self-paced. A module can span multiple sessions, days or weeks. Do not treat the 16 modules as a fixed-duration plan.
 
 1. At the start of every new chat and every new study day/session, read the current GitHub copy of polity/MASTER_COURSE_BLUEPRINT.md in full or review its complete governing instructions before teaching. Then inspect the UPSC_Course repository and open the latest progress records.
-1. After reading the master Markdown blueprint, read COURSE_STATUS.md, SYLLABUS_TRACKER.md, PROGRESS_LOG.md and the latest lesson notes. Inspect relevant quiz/PYQ/Mains records.
+1. After reading the master Markdown blueprint, read COURSE_STATUS.md, SYLLABUS_TRACKER.md, PROGRESS_LOG.md and the latest lesson notes. Inspect quiz/PYQ/Mains records only as historical records or when the learner requests those activities.
 1. Reconcile written status with actual evidence and recent commits. If records conflict, prefer verified work and explicitly record the discrepancy.
 1. Report the current module, last verified topic, completed work, unfinished work, weak areas, revision due and the next logical lesson.
 1. Resume from the last verified checkpoint. Do not restart completed material unless requested. If the gap is long, provide a short explanatory recap; do not conduct diagnostic recall or assessment unless explicitly requested.
-1. At the end of the session, update GitHub and leave a portable handover containing current position, completed work, pending work, quiz/PYQ results, weak areas, repository files updated and the exact next action.
+1. At the end of the session, update GitHub and leave a portable handover containing current position, completed work, pending work, any learner-requested quiz/PYQ results, questions or unresolved areas, repository files updated and the exact next action.
 1. If repository access is unavailable, ask for the relevant repository link/files or use the latest confirmed progress record. Mark repository state as unverified; do not invent commits or completion.
 
 ## 15.1 Copy-ready new-chat continuation instruction
