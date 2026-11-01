@@ -1,10 +1,10 @@
 # UPSC Polity Course Status
 
-- Course state: Not yet reconciled with verified learner records.
+- Course state: Day 1 officially commenced; first Company Rule lesson delivered.
 - Governing blueprint: `polity/MASTER_COURSE_BLUEPRINT.md`.
 - PYQ register: `polity/PYQ_REGISTER.md`.
-- Current verified checkpoint: Day 1 — Company Rule (1773–1858) taught; next planned topic: Crown Rule (1858–1947). This is a historical checkpoint from the supplied planner and must be checked against lesson notes before treating it as current.
-- Mastery: Not independently verified.
-- Next action: Read the governing blueprint, PYQ register and progress records; verify the checkpoint before teaching.
+- Current verified checkpoint: Day 1 — Company Rule (1773–1858) teaching completed on 1 November 2026. This session supersedes the earlier unverified legacy checkpoint; the present lesson is recorded in `polity/LESSON_NOTES/DAY_01_COMPANY_RULE_1773_1858.md`.
+- Mastery: Not yet demonstrated; learner recall assessment is pending.
+- Next action: Conduct Day 1 recall assessment; analyse errors; then continue with Crown Rule (1858–1947), beginning with the Government of India Act, 1858.
 
 Update this file after each study session. Never mark a topic mastered without assessment evidence.
